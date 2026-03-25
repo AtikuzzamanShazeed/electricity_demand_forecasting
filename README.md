@@ -3,4 +3,4 @@ This repository contains data and code for forecasting peak yearly electricity d
 
 ## Run the Notebook in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shazeed-econ/electricity_demand_forecasting/blob/main/Codes.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AtikuzzamanShazeed/electricity_demand_forecasting/blob/main/Codes.ipynb)
